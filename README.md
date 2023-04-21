@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hi there, I'm Atharva!
 
-<!--
-**Atharva123987/Atharva123987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a React front-end developer student with a passion for creating beautiful, responsive, and user-friendly web applications. I love learning and exploring new technologies and tools to build better products.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a Code Dash which is a competitive multiplayer coding game. The project is built using React JS, Tailwind CSS and Socket.io and I'm learning a lot in the process.
+
+## 🌱 Learning
+
+I'm constantly learning and expanding my skill set. Some of the things I'm currently learning or planning to learn include:
+
+- Next JS
+- Node JS
+- Sass
+
+## 💬 Ask me about
+
+- React
+- HTML & CSS
+- JavaScript
+- Web accessibility
+
+## 📫 How to reach me
+
+You can reach out to me via:
+
+- [https://www.linkedin.com/in/atharva-amberkar]
+- [atharva.amberkar@gmail.com]
+
+
