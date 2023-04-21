@@ -18,6 +18,7 @@ I'm constantly learning and expanding my skill set. Some of the things I'm curre
 
 - React
 - HTML & CSS
+- Tailwind & Bootstrap
 - JavaScript
 - Web accessibility
 
