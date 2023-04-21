@@ -26,6 +26,6 @@ I'm constantly learning and expanding my skill set. Some of the things I'm curre
 You can reach out to me via:
 
 - [LinkedIn](https://www.linkedin.com/in/atharva-amberkar)
-- [Email](atharva.amberkar@gmail.com)
+- [Email](mailto:atharva.amberkar@gmail.com)
 
 
