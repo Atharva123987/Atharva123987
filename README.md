@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
-<h3 align="center">I'm a React front-end developer student with a passion for creating beautiful, responsive, and user-friendly web applications. I love learning and exploring new technologies and tools to build better products.</h3>
+<h3 align="center">I'm a backend developer specializing in Golang, focused on building scalable, high-performance systems and APIs. I enjoy designing efficient architectures, optimizing database interactions, and solving complex backend challenges. Constantly exploring new technologies, I aim to build reliable and production-ready systems.</h3>
 
-- 🔭 I’m currently working on [Code Dash](https://github.com/Atharva123987/Code-Dash)
+- 🔭 I’m currently working on [Just Book It](https://github.com/Atharva123987/Just-Book-It)
 
-- 🌱 I’m currently learning **Next JS, Node JS and Sass**
+- 🌱 I’m currently learning **Nest JS, React Native and Sass**
 
-- 👯 I’m looking to collaborate on [Code Dash](https://github.com/Atharva123987/Code-Dash)
+- 👯 I’m looking to collaborate on [Just Book It](https://github.com/Atharva123987/Just-Book-It)
 
-- 💬 Ask me about **React, HTML, CSS and Javascript**
+- 💬 Ask me about **Go, Python, NestJS and React Native**
 
 - 📫 How to reach me **atharva.amberkar@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1QgyWREhL3SljMzOOm4mzshgpoyh5wuFF/view?usp=share_link)
 
-- ⚡ Fun fact **I'm a creative person**
+- ⚡ Fun fact **I'm a multi-talented person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
