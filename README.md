@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atharva.amberkar@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1jqKowsk2TaKBEWOF8mZczv_RpwHx7GUn/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1tICZyRnBe-jGmEjDJfW4_Yv2wz6BLmN3/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a multi-talented person**
 
